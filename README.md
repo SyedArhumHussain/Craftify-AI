@@ -1,7 +1,7 @@
 # Craftify-AI
-Craftify AI – AI-Powered Brochure Generation for the Modern Business
+Craftify AI  AI-Powered Brochure Generation for the Modern Business
 Convert URLS to Brochure
-In today’s fast-paced digital world, first impressions matter more than ever. Craftify AI is an advanced AI-powered brochure maker designed to help businesses, startups, agencies, and professionals instantly transform their websites into engaging, ready-to-share brochures—without a designer, copywriter, or marketing team.
+In today’s fast-paced digital world, first impressions matter more than ever. Craftify AI is an advanced AI powered brochure maker designed to help businesses, startups, agencies, and professionals instantly transform their websites into engaging, ready-to-share brochures without a designer, copywriter, or marketing team.
 
 
  Why Craftify AI?
